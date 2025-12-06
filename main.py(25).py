@@ -1,7 +1,6 @@
 #pip install python-dotenv
 #pip install langchain-openai
 #pip install streamlit
-OPENAI_API_KEY='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'
 
 #from dotenv import load_dotenv
 #load_dotenv()
